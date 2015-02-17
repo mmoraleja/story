@@ -1,1 +1,2 @@
-Now the group has started using git, but they are all drunk.
+The "Epal" of a lonely programmer-Michael.
+
