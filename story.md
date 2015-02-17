@@ -3,5 +3,4 @@ a party of friends. But he got tired of waiting for the party so he decided to s
 he was waiting he met some friends who are also studying GIT.  After studying they all drink 
 and found other groups to join them.
 
-Now there more than 1 programmer and they are no longer lonely.
-
+Now there's more than 1 programmer and he is no longer lonely.
