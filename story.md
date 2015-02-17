@@ -7,3 +7,5 @@ and found other groups to join them.
 
 Now there more than 1 programmer and they are no longer lonely.
 
+...
+And he program happily ever after.
